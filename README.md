@@ -1,48 +1,94 @@
-<h1 align="center">AetherMask PRO 🛡️</h1>
+<h1 align="center">AetherMask</h1>
 
 <p align="center">
-  <strong>Enterprise-Grade Network Identity Protection. Standalone, kernel-level utility designed to mask your hardware footprint.</strong>
+  <strong>Lightweight Networking & System Utility for Windows</strong>
+</p>
+
+<p align="center">
+  Offline-first utility focused on local network configuration, telemetry and clean desktop workflows.
 </p>
 
 <p align="center">
   <a href="https://1707483465936.gumroad.com/l/aethermask-pro">
-    <img src="https://img.shields.io/badge/Download-AetherMask_PRO-00E5FF?style=for-the-badge&logo=windows&logoColor=black" alt="Download Button">
+    <img src="https://img.shields.io/badge/Download-Windows_Build-00E5FF?style=for-the-badge&logo=windows&logoColor=black" alt="Download">
   </a>
 </p>
 
 ---
 
-[AQUÍ PEGAS LA LÍNEA DE TU IMAGEN QUE SE GENERÓ EN EL PASO 2]
-
-## ⚡ Overview
-
-AetherMask PRO is an advanced network privacy utility. Unlike traditional VPNs or cloud-based software, it operates entirely offline, giving you full local control over your physical network adapter's registry and hardware footprint. 
-
-No subscriptions. No background telemetry. Zero bloatware.
-
-## 🚀 Core Features
-
-* **One-Click Identity Masking:** Override physical adapter parameters instantly.
-* **Live Network Telemetry:** Monitor CPU, RAM, and Virtual Node IP in real-time through a sleek, terminal-inspired interface.
-* **AES-256 Local Vault:** Military-grade offline cryptography for your sensitive configurations.
-* **DRM-Free Direct Setup:** Zero activation keys or cloud accounts required. Download the executable and own it forever.
-
-## 💻 System Requirements
-
-* **OS:** Windows 10 / Windows 11 (64-bit)
-* **Architecture:** x64
-* **Rights:** Administrator privileges required for kernel-level network masking.
-* **Dependencies:** None. Completely standalone `.exe`.
-
-## 🛒 Get AetherMask PRO
-
-Ready to secure your digital footprint? Get instant access to the standalone setup file.
-
-👉 **[Download AetherMask PRO (Gumroad)](https://1707483465936.gumroad.com/l/aethermask-pro)**
-
-## 🛠️ Support & Issues
-
-As a premium user, you have direct access to support. If you encounter any bugs, need assistance, or want to request a feature, please use the **[Issues](../../issues)** tab in this repository.
+<p align="center">
+  <img src="./assets/aethermask-dashboard.png" alt="AetherMask Dashboard" width="100%">
+</p>
 
 ---
-<p align="center"><i>Privacy is a right, not a feature. Built by GT0u Labs.</i></p>
+
+# ⚡ Overview
+
+AetherMask is a lightweight desktop utility focused on local network identity management, system telemetry and offline-first workflows.
+
+Built for power users, homelab enthusiasts and developers who prefer simple local tools without cloud dependencies or subscriptions.
+
+Everything runs locally on your machine.
+
+---
+
+# 🚀 Features
+
+## Network Identity Tools
+Refresh and manage local network adapter identity configurations through a clean desktop interface.
+
+## Live System Monitoring
+Monitor CPU usage, memory load and active network information in real time.
+
+## Encrypted Local Storage
+Store local configuration data using AES-256 encrypted storage.
+
+## Offline-First Design
+No subscriptions, cloud sync or online accounts required.
+
+## Standalone Desktop Application
+Simple direct installer with no launcher or activation platform needed.
+
+---
+
+# 💻 System Requirements
+
+- Windows 10 / Windows 11 (64-bit)
+- x64 Architecture
+- Administrator privileges required
+- Fully standalone desktop application
+
+---
+
+# 🛠️ Technical Notes
+
+- Built with Electron & JavaScript
+- Local-only functionality
+- Lightweight desktop workflow
+- Experimental networking utility project
+
+Version 2.0.0
+
+---
+
+# 📥 Download
+
+<p align="center">
+  <a href="https://1707483465936.gumroad.com/l/aethermask-pro">
+    <img src="https://img.shields.io/badge/Get-AetherMask-00E5FF?style=for-the-badge&logo=windows&logoColor=black">
+  </a>
+</p>
+
+---
+
+# 🛠️ Support
+
+If you encounter bugs, UI issues or unexpected behavior, please open an issue in this repository.
+
+Feature suggestions and improvements are welcome.
+
+---
+
+<p align="center">
+  <i>Built by GT0u Labs.</i>
+</p>
