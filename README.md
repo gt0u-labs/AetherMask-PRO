@@ -1,15 +1,12 @@
 <h1 align="center">AetherMask</h1>
-
 <p align="center">
   <strong>Lightweight Networking & System Utility for Windows</strong>
 </p>
-
 <p align="center">
   Offline-first utility focused on local network configuration, telemetry and clean desktop workflows.
 </p>
-
 <p align="center">
-  <a href="https://1707483465936.gumroad.com/l/aethermask-pro">
+  <a href="../../releases">
     <img src="https://img.shields.io/badge/Download-Windows_Build-00E5FF?style=for-the-badge&logo=windows&logoColor=black" alt="Download">
   </a>
 </p>
@@ -26,7 +23,7 @@
 
 AetherMask is a lightweight desktop utility focused on local network identity management, system telemetry and offline-first workflows.
 
-Built for power users, homelab enthusiasts and developers who prefer simple local tools without cloud dependencies or subscriptions.
+Built as a personal project for power users, homelab enthusiasts and developers who prefer simple local tools without cloud dependencies or subscriptions.
 
 Everything runs locally on your machine.
 
@@ -74,7 +71,7 @@ Version 2.0.0
 # 📥 Download
 
 <p align="center">
-  <a href="https://1707483465936.gumroad.com/l/aethermask-pro">
+  <a href="../../releases">
     <img src="https://img.shields.io/badge/Get-AetherMask-00E5FF?style=for-the-badge&logo=windows&logoColor=black">
   </a>
 </p>
